@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseBlogApp</string>
+    <string name="action_search_text">Search</string>
+    <string name="menu_account_setting_text">Account Setting</string>
+    <string name="menu_logout">Logout</string>
+    <string name="description">Description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum_dolor_ament_my_name_is_farooq_ahmad_i_m_doing_android_developement">Lorem Ipsum dolor ament, My name is Farooq Ahmad. I\'m doing Android Developement</string>
+    <string name="post_image">post image</string>
+    <string name="_0_likes">0 Likes</string>
+    <string name="textview">TextView</string>
+    <string name="username">UserName</string>
+    <string name="todo">TODO</string>
+</resources>
